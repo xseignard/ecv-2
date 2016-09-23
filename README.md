@@ -1,4 +1,4 @@
-# ECV Dev web - Cours n°1
+# ECV Dev web - Cours n°2
 
 ## Development
 
